@@ -6,7 +6,7 @@ Files should use 4 spaces for indentation.
 
 ```c++
 
-// for single line comments prefer C++ style
+// for single line comments prefer C++ style 
 
 /*
     for multiline comments
